@@ -1,0 +1,10 @@
+{
+	map			"mak"
+	longname	"MENU_LEVEL_MAK"
+	gametype	"cmp arc"
+}
+{
+	map			"ugx_cabin"
+	longname	"[UGX] Cabin"
+	gametype	"zom"
+}
