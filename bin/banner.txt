@@ -1,0 +1,12 @@
+    _                _            __
+   / `_  //  _ _/|  / |   _/_    /_ 
+  /_,/_|//  /_//   /_.'/_// /_/ ._/ 
+                            _/       
+           World at War: LAN Edition
+
+Instructions:
+1) Run the files in the install folder
+2) Launch the game and ignore game's launch prompts to make online profile (select: Cancel/No/Cancel)
+3) For Zombie mode: Cooperative > LAN > Game Setup > Game Mode
+4) Additional Zombie maps are listed in the mods screen
+
